@@ -14,5 +14,5 @@ An AI-powered dashboard that predicts solar energy generation in real-time using
 2. Run the app: `streamlit run app.py`
 
 ## 👨‍💻 Developed By
-- **Zalak Modi** (T.Y.B.Sc. Computer Science)
-- **Charmy Basopiya** (Project Partner)
+- **Zalak Modi** 
+
